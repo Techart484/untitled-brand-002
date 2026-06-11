@@ -1,0 +1,28 @@
+{
+  "archetype": "premium-brutalist",
+  "canvasUrl": "https://framer.com/projects/frm_967a0bee/untitled-brand-polished",
+  "wsChannel": "wss://framer.com/canvas/frm_967a0bee",
+  "palette": {
+    "primary": "#0a0a0a",
+    "accent": "#6366f1",
+    "bg": "#ffffff",
+    "surface": "#ffffff",
+    "fg": "#0a0a0a"
+  },
+  "motion": {
+    "preset": "snap.cut",
+    "easing": "cubic-bezier(.2,.8,.2,1)",
+    "duration": 220,
+    "springs": [
+      "stiff",
+      "tight"
+    ]
+  },
+  "effects": [
+    "1px hairline grid",
+    "monospace meta labels",
+    "scroll-jacked sections",
+    "no shadows"
+  ],
+  "sourceDeploymentUrl": "https://untitled-brand-2026-b0ad447e.vercel.app"
+}
