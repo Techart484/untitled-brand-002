@@ -1,0 +1,89 @@
+{
+  "generatedAt": "2026-06-11T20:28:30.788Z",
+  "overallConfidence": 0,
+  "integrityScore": 0,
+  "discrepancies": [
+    {
+      "field": "title",
+      "confidence": 0,
+      "matched": false,
+      "primary": null,
+      "secondary": "Genuine Origin | The Best Green Coffee Beans",
+      "note": "title: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "description",
+      "confidence": 0,
+      "matched": false,
+      "primary": null,
+      "secondary": "Shop our selection of green coffee beans and get them shipped free to your coffee roastery. Find unroasted coffee beans from your favorite coffee origins",
+      "note": "description: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "navLinks",
+      "confidence": 0,
+      "matched": false,
+      "primary": [],
+      "secondary": [
+        "Shop Coffee",
+        "Bali",
+        "Brazil",
+        "Colombia",
+        "Costa Rica",
+        "DR Congo",
+        "El Salvador",
+        "Ethiopia",
+        "Guatemala",
+        "Honduras",
+        "India",
+        "Indonesia",
+        "Java",
+        "Kenya",
+        "Mexico",
+        "Nicaragua",
+        "Papua New Guinea",
+        "Peru",
+        "Sulawesi",
+        "Sumatra",
+        "Tanzania",
+        "Uganda",
+        "Roastery Essentials",
+        "Decaf",
+        "Organic",
+        "Low Inventory",
+        "Microlots",
+        "Mission Coffees",
+        "Natural Process",
+        "Single Farm Lots"
+      ],
+      "note": "navLinks: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "productDescriptions",
+      "confidence": 0,
+      "matched": false,
+      "primary": [],
+      "secondary": [
+        "Get FREE Shipping on All Green Coffee Beans!",
+        "How it Works"
+      ],
+      "note": "productDescriptions: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "prices",
+      "confidence": 0,
+      "matched": false,
+      "primary": [],
+      "secondary": [
+        "$19.50",
+        "$58.50",
+        "$156",
+        "$468"
+      ],
+      "note": "prices: weak agreement (0.00) — flagged"
+    }
+  ],
+  "matches": [],
+  "primarySource": "firecrawl.v2",
+  "secondarySource": "lightscraper.fetch"
+}
